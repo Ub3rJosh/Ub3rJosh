@@ -1,4 +1,4 @@
-## Hi there 👋
+Graduate Student at Ohio Univeristy.
 
 <!--
 **Ub3rJosh/Ub3rJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
