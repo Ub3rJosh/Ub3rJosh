@@ -15,6 +15,7 @@
     * **J. M. Maldonado**, C. Drischler, R. J. Furnstahl, and P. Mlinarić
     * Public GitHub to work (not yet available)
 
+<!--
 ### Research Interests:
 * Computational physics -
     * Theoretical & experimental astrophysics
@@ -32,7 +33,7 @@
 * Climate Science and Oceanography -
     * Fluid Dynamics
     * Climate and Weather Models
-
+--!>
 
 
 
