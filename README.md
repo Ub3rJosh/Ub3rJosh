@@ -1,4 +1,4 @@
-# Joshua Maldonado (he/him)
+# [Joshua Maldonado](https://inspirehep.net/authors/2849437) (he/him)
 
 
 ### Education:
