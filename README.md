@@ -2,9 +2,9 @@
 
 
 ### Education:
-* _**Ohio University**_
+* **Ohio University**
     * Masters of Science in **Theoretical and Computational Nuclear Physics** (obtained Aug. 2024)
-* _**Humboldt State University** (now Cal Poly Humboldt, as of 2022)_
+* **Humboldt State University** _(now Cal Poly Humboldt, as of 2022)_
     * **Major in Physics with emphasis in Astronomy**; Minor in Oceanography (obtained Dec. 2021)
 
 ### Published work (in progress):
