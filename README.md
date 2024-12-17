@@ -15,6 +15,9 @@
     * **J. M. Maldonado**, C. Drischler, R. J. Furnstahl, and P. Mlinarić
     * Public GitHub to work (not yet available)
 
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ub3rJosh)](https://github.com/Ub3rJosh/github-readme-stats)--!>
+
 <!--
 ### Research Interests:
 * Computational physics -
