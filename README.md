@@ -12,9 +12,9 @@ I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437) (he/him) and 
 * [Star Log-extended eMulation: a method for efficient computation of the Tolman-Oppenheimer-Volkoff equations](https://arxiv.org/abs/2411.10556)
     * Sudhanva Lalit, Alexandra C. Semposki, and **Joshua M. Maldonado**
     * Public GitHub to work (not yet available, to be made public on peer-reviewed publication)
-* Greedy Emulators for Nuclear Two-Body Scattering
+* [Greedy Emulators for Nuclear Two-Body Scattering](https://arxiv.org/abs/2504.06092)
     * **J. M. Maldonado**, C. Drischler, R. J. Furnstahl, and P. Mlinarić
-    * Public GitHub to work (not yet available, to be made public on submission to the arXiv)
+    * Public GitHub to work (not yet available, to be made public soon)
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ub3rJosh)](https://github.com/Ub3rJosh/github-readme-stats)--!>
