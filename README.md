@@ -9,7 +9,7 @@ I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437) and I am a gr
     * **Major in Physics with emphasis in Astronomy**; Minor in Oceanography (obtained Dec. 2021)
 
 ### Published work:
-* [Greedy Emulators for Nuclear Two-Body Scattering](https://journals.aps.org/prc/accepted/10.1103/k77q-f82l) [pdf](https://arxiv.org/pdf/2504.06092)
+* [Greedy Emulators for Nuclear Two-Body Scattering](https://journals.aps.org/prc/accepted/10.1103/k77q-f82l) ([pdf](https://arxiv.org/pdf/2504.06092))
     * **J. M. Maldonado**, C. Drischler, R. J. Furnstahl, and P. Mlinarić
     * [Public GitHub repo](https://github.com/buqeye/cs_greedy_emulator_josh)
 * **In Progress**:
