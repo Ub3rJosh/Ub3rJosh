@@ -16,7 +16,7 @@ I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437) and I am a gr
 
 * [Star Log-extended eMulation: a method for efficient computation of the Tolman-Oppenheimer-Volkoff equations](https://journals.aps.org/prresearch/abstract/10.1103/5p3h-b8rf) 
     * Sudhanva Lalit, Alexandra C. Semposki, and **Joshua M. Maldonado**
-    * Public GitHub to work (to be made public soon)
+    * [Public GitHub repo](https://github.com/asemposki/SLM)
     * (pdf [here](https://journals.aps.org/prresearch/pdf/10.1103/5p3h-b8rf) or  [here](https://arxiv.org/pdf/2411.10556))
 
   
