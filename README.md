@@ -1,12 +1,14 @@
 # Hello!
-I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437) and I am a graduate student at Ohio University.
+I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437).
 
 
+<!--
 ### Education:
 * **Ohio University**
     * Masters of science in **Computational and Theoretical Nuclear Physics** (defended Aug. 2024)
 * **Humboldt State University** _(now Cal Poly Humboldt, as of 2022)_
     * Graduated cum laude with a **Major in Physics with emphasis in Astronomy**; Minor in Oceanography (obtained Dec. 2021)
+-->
 
 ### Published work:
 * [Greedy Emulators for Nuclear Two-Body Scattering](https://journals.aps.org/prc/accepted/10.1103/k77q-f82l)
