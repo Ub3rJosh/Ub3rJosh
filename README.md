@@ -1,5 +1,5 @@
 # Hello!
-I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437).
+I am [Joshua M. Maldonado](https://inspirehep.net/authors/2849437)
 
 
 <!--
